@@ -3,7 +3,6 @@
 wersja_qrLM = 'Beta 20.0702'
 ile_zetonow_dziennie_max = '2'
 dostawcy=['wyszdr','kntuss']
-tab_kod = {"a":"r","b":"h","c":"g","d":"n","e":"a","f":"4","g":"j","h":"u","i":"w","j":"k","k":"y","l":"b","m":"f","n":"s","o":"1","p":"c","q":"d","r":"z","s":"2","t":"e","u":"i","v":"g","w":"5","x":"l","y":"m","z":"o","1":"p","2":"v","3":"7","4":"8","5":"x","6":"0","7":"9","8":"3","9":"t","0":"q"}
 pietra=['3b','4a','5a','5b','6b']
 id_zetonu=randomString(8).replace('q','k')
 data_zetonu=datetime.datetime.now().strftime("%Yq%mq%d")
